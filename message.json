@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1503478910139,
+        "user": "nilu12",
+        "picUrl": "pic0",
+        "text": "message1 submitted",
+        "type": "subtexmitted",
+        "status": "sent",
+        "contentType": "text",
+        "contentData": {
+            "data": "Hello hii"
+        },
+        "responseData": {
+            "data": "message1 submitted 1"
+        },
+        "lastUpdateTime": "15:15pm"
+    },
+    {
+        "id": 1503478910189,
+        "user": "nilu",
+        "picUrl": "pic1",
+        "text": "message2 submitted",
+        "type": "text",
+        "status": "sent",
+        "contentType": "text",
+        "contentData": {
+            "data": "Hello"
+        },
+        "responseData": {
+            "data": "message2 submitted"
+        },
+        "lastUpdateTime": "15:15pm"
+    }
+]
